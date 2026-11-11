@@ -136,15 +136,15 @@ UTS-Pemrograman-Visual-Kasir-Kantin/
 
 ### B. Hasil Perhitungan dan Pembayaran Nasi Goreng
 
-![Hasil Perhitungan](screenshots/hasil-perhitungan-dan-pembayaran-nasi-goreng.png)
+![Hasil Perhitungan](screenshots/Hasil-perhitungan-dan-pembayaran-nasi-goreng.png)
 
 ### C. Hasil Perhitungan dan Pembayaran Mie Ayam
 
-![Hasil Perhitungan](screenshots/hasil-perhitungan-dan-pembayaran-mie-ayam.png)
+![Hasil Perhitungan](screenshots/Hasil-perhitungan-dan-pembayaran-mie-ayam.png)
 
 ### D. Hasil Perhitungan dan Pembayaran Es Teh
 
-![Hasil Perhitungan](screenshots/hasil-perhitungan-dan-pembayaran-es-teh.png)
+![Hasil Perhitungan](screenshots/Hasil-perhitungan-dan-pembayaran-es-teh.png)
 
 ## 11. Teknologi yang Digunakan
 
